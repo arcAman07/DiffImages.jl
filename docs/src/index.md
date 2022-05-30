@@ -4,7 +4,7 @@ CurrentModule = DiffImages
 
 # DiffImages.jl
 
-[![CI status](https://github.com/SomTambe/DiffImages.jl/actions/workflows/ci.yml/badge.svg)](https://github.com/SomTambe/DiffImages.jl/actions/workflows/ci.yml)
+[![CI status](https://github.com/FluxML/DiffImages.jl/actions/workflows/ci.yml/badge.svg)](https://github.com/FluxML/DiffImages.jl/actions/workflows/ci.yml)
 [![Docs-Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://somtambe.github.io/DiffImages.jl/dev/)
 [![codecov](https://codecov.io/gh/SomTambe/DiffImages.jl/branch/main/graph/badge.svg?token=T9WFI8C9Q9)](https://codecov.io/gh/SomTambe/DiffImages.jl)
 
